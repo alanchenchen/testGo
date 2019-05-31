@@ -11,7 +11,7 @@ type Man struct {
 	Age  int
 }
 
-func (a Man) show(msg string) {
+func (a Man) Show(msg string) {
 	s := make([]int, 1)
 	s1 := appendInt.AppendInt(s, 1)
 
