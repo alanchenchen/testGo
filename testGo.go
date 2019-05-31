@@ -8,7 +8,7 @@ import (
 
 type Man struct {
 	Name string
-	Age int
+	Age  int
 }
 
 func (a Man) show(msg string) {
