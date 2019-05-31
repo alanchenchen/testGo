@@ -2,8 +2,8 @@ package testGo
 
 import (
 	"fmt"
-	"testGo/appendInt"
-	_ "testGo/array"
+	"github.com/alanchenchen/testGo/appendInt"
+	_ "github.com/alanchenchen/testGo/array"
 )
 
 type Man struct {
